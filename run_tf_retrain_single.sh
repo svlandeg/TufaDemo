@@ -1,0 +1,1 @@
+python src/be/svlandeg/tufa/algo/retrain_single.py --image_dir=data/limited_flowers_training --summaries_dir=/tmp/retrain_logs_flowers --testing_percentage=0 --validation_percentage=0 --validation_batch_size=0 --how_many_training_steps=25
