@@ -1,0 +1,1 @@
+python src/be/svlandeg/tufa/algo/label_image.py --graph=C:/tmp/output_graph.pb --labels=C:/tmp/output_labels.txt --input_layer=Placeholder --output_layer=final_result --image=data/flower_photos/daisy/21652746_cc379e0eea_m.jpg
